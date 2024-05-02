@@ -29,3 +29,11 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
+
+.card{
+    width: 32%;
+    position: relative;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+}
