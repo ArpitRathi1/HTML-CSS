@@ -23,3 +23,9 @@
     font-size: 3rem;
     margin-bottom: 20px;
 }
+
+.gallary{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
