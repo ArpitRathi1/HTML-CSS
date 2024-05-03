@@ -66,3 +66,9 @@
     font-size: 16px;
     opacity: 0;    
 }
+
+.card:hover figcaption{
+    opacity: 1;
+    transition: 0.5s;
+    transform: scale(1.03);
+}
