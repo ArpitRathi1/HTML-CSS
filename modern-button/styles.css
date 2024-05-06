@@ -26,3 +26,17 @@ a{
     text-decoration: none;
     color: white;
 }
+
+.button::before{
+    content: "";
+    background-color: #1f1f1f;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: 1s;
+}
