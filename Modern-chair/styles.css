@@ -76,3 +76,12 @@ p{
     border-color: #434343;
     transform: scale(1.1);
 }
+
+label.first-color{
+    margin-left: 500px;
+    background-image: url("./images/color1.jpg");
+}
+
+label.second-color{
+    background-image: url("./images/color2.jpg");
+}
