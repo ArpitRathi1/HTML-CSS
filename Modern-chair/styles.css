@@ -71,3 +71,8 @@ p{
     /* border: none; */
     border: 3px solid transparent;
 }
+
+.color-btn:checked + label{
+    border-color: #434343;
+    transform: scale(1.1);
+}
