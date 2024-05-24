@@ -210,3 +210,11 @@ label.fifth-color{
 .for-color-5:checked ~ .back-color.chair-5 {
     opacity: 1;
 }
+
+.info-wrap{
+    position: relative;
+    margin-left: 500px;
+    z-index: 10;
+    display: block;
+    text-align: left;
+}
