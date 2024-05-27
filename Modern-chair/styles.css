@@ -238,3 +238,12 @@ h2 {
     margin-top: 0;
     margin-bottom: 10px;
 }
+
+h4 {
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 1.2;
+    color: #fff;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
