@@ -331,3 +331,26 @@ h5 {
     font-size: 30px;
     line-height: 1.1;
 }
+
+.btn {
+    position: relative;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 2;
+    height: 48px;
+    border-radius: 4px;
+    width: 210px;
+    letter-spacing: 1px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    background-color: transparent;
+    color: #fff;
+    box-shadow: 0 6px 15px 0 rgba(16, 39, 112, 0.15);
+    transition: all 250ms linear;
+    text-decoration: none;
+    margin-top: 50px;
+}
